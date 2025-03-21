@@ -17,7 +17,7 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/host-cloud.org.git
+git clone https://github.com/Tauruscool/host-cloud.org.git
 cd host-cloud.org
 ```
 
